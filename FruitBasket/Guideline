@@ -1,0 +1,7 @@
+1. Created one business Object Class i.e Bassket.java, which contain methods to calculate the total
+   cost of the items, count of the items which added. This class also has a static main method which
+   compute the total cost of the items. These are added to the list from the BasketServiceImpl.java.
+   
+2. Created a POJO class i.e. Item.java, which will describe the item (name, quantity and cost)
+
+3. Created a test suite BasketTest.java which include all the test cases. 
